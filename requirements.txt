@@ -1,0 +1,10 @@
+joblib
+dask[dataframe]
+pyarrow>=7.0.0
+numpy
+pandas
+scipy
+matplotlib
+xgboost
+scikit-learn
+tensorflow
